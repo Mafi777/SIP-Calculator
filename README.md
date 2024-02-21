@@ -14,7 +14,7 @@ This is a Java Spring application for calculating Systematic Investment Plans (S
 
 - **Java Spring Boot:** The backend framework for building the SIP Calculator.
 - **Thymeleaf:** Used for server-side templating to create dynamic web pages.
-- **HTML, CSS, JavaScript:** Frontend technologies for building the interactive web interface.
+- **HTML, CSS:** Frontend technologies for building the interactive web interface.
 
 ## Getting Started
 
